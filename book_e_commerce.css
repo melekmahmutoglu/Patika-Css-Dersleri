@@ -1,0 +1,34 @@
+/* body back-ground-color*/
+body{
+background-color: antiquewhite;
+text-align: center;
+}
+/* h2 elementi color*/
+h2 {
+ color: #2B3A55;
+}
+/* h3 elementi color*/
+h3{
+    color: #CE7777;
+}
+/* h4 elementi color*/
+h4{
+ color:#2B3A55;
+}
+/* p elementi color*/
+p{
+    color: #453C67;
+}
+/* div elementi */
+div {
+    width: 300px;
+    border: 5px solid #CE7777;
+    padding: 50px;
+    margin: auto;
+    
+}
+
+
+
+
+
