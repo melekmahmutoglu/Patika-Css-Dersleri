@@ -1,0 +1,57 @@
+.imgCenter {
+    display: block;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+}
+
+.borderGray{
+    background-color: rgba(238, 237, 237, 0.863);
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.borderBlue1{
+    background-color: aquamarine;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    margin: 5px;
+    margin-left: 10%;
+    float: left;
+}
+
+.borderBlue2{
+    background-color: rgba(19, 211, 211, 0.815);
+    width: 150px;
+    height: 100px;
+    text-align: center; 
+    margin: 5px;
+    float: left;
+}
+
+.borderBlue3{
+ background-color: rgba(21, 126, 126, 0.753);
+ width: 300px;
+ height: 100px;
+ text-align: center;
+ margin: 5px;
+ margin-right: auto;
+ float: left;
+}
+
+#inputStyle{
+    padding: 5px 55px;
+    outline-style: thick;
+    outline-offset: 5px;
+}
+
+.ButtonStyle{
+ background-color: rgba(187, 187, 187, 0.849);
+ border-color: rgba(255, 255, 255, 0.822);
+ padding: 2px 50px 2px 50px;
+}
